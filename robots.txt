@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mircus.github.io/Higher-Math-for-the-Impatient/sitemap.xml
