@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/higher-math-logo.jpg" width="750" alt="Higher Math for the Impatient"></p>
+
 # Higher Math for the Impatient
 
 **The library and reading room** for an expanding series of short, substantial mathematical books.
@@ -77,3 +79,4 @@ Then open `http://localhost:8000/` in a browser. The site requires no installati
 This is a reading library of existing PDF *editions*, not a declaration that the working editions are final or peer reviewed. Readers should pay attention to each booklet's printed edition.
 
 **Series editor:** Mirco A. Mannucci · HoloMathics LLC.
+
